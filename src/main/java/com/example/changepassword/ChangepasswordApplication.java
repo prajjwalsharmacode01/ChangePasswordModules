@@ -8,6 +8,7 @@ public class ChangepasswordApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChangepasswordApplication.class, args);
+		
 	}
 
 }
